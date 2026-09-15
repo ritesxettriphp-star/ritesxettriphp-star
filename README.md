@@ -80,7 +80,7 @@ I'm currently building my GitHub profile by documenting my projects, learning jo
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https.linkedin.com/in/rites-rokaya-1b128a292
+- 💼 LinkedIn: www.linkedin.com/in/rites-rokaya-1b128a292
 - 📧 Email: ritesxettriphp@gmail.com
 - 🌐 Portfolio: [Coming Soon](#)
 
