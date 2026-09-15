@@ -80,8 +80,8 @@ I'm currently building my GitHub profile by documenting my projects, learning jo
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/rites-rokaya-1b128a292
+- 📧 Email: ritesxettriphp@gmail.com
 - 🌐 Portfolio: [Coming Soon](#)
 
 ---
